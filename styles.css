@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(1, 17, 91);
+}
+
+.header {
+    background-color: rgb(18, 23, 188);
+    padding: 5%;
+    font-size: 30px;
+}
+
+.header h1 {
+    color: white;
+    font-size: 2em;
+}
+
+.header a {
+    color: rgb(89, 140, 243);
+    font-size: 0.8em;
+}
+
+.gallery {
+    background-color: rgb(89, 140, 243);
+}
+
+.gallery img {
+    width: 25%;
+    margin: 2%;
+
+}
